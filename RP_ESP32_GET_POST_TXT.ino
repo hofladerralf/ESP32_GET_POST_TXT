@@ -67,7 +67,7 @@ void setup() {
     }
   }
   
-  sendFile("xxx.de", "/thaler1/upload.php", 80, "RPFile.txt", "/filedown.txt");
+  sendFile("xxx.de", "/upload.php", 80, "RPFile.txt", "/filedown.txt");
   
 }
 
